@@ -1,0 +1,20 @@
+﻿Build started 4/3/2016 10:56:16 AM.
+     1>Project "C:\Users\Gabriella\Desktop\OCC\A200\__CS_A200_TODAY_2\__Day_1\Lab_08_DArray_Append\lab_08_darray_append\Project\Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DArray.cpp Main.cpp
+         Main.cpp
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\main.cpp(31): error C2039: 'appendArray' : is not a member of 'DArray'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\darray.h(8) : see declaration of 'DArray'
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\main.cpp(47): error C2039: 'appendArray' : is not a member of 'DArray'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\darray.h(8) : see declaration of 'DArray'
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\main.cpp(64): error C2039: 'appendArray' : is not a member of 'DArray'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\darray.h(8) : see declaration of 'DArray'
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\main.cpp(86): error C2039: 'appendArray' : is not a member of 'DArray'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today_2\__day_1\lab_08_darray_append\lab_08_darray_append\project\darray.h(8) : see declaration of 'DArray'
+         DArray.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Gabriella\Desktop\OCC\A200\__CS_A200_TODAY_2\__Day_1\Lab_08_DArray_Append\lab_08_darray_append\Project\Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.91

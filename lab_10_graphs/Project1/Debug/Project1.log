@@ -1,0 +1,23 @@
+﻿Build started 5/8/2016 12:10:51 PM.
+     1>Project "C:\Users\Gabriella\Desktop\OCC\A200\__CS_A200_TODAY\__Day_1\Lab_10_Graphs\Lab_10_Graphs_Adjacency_List\lab_10_graphs\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Functions.cpp GraphType.cpp LinkedListGraph.cpp LinkedListType.cpp Main.cpp
+         Main.cpp
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\main.cpp(44): error C2039: 'numberOfSuccessors' : is not a member of 'GraphType'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\graphtype.h(15) : see declaration of 'GraphType'
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\main.cpp(45): error C2039: 'printSuccessors' : is not a member of 'GraphType'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\graphtype.h(15) : see declaration of 'GraphType'
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\main.cpp(49): error C2039: 'numberOfPredecessors' : is not a member of 'GraphType'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\graphtype.h(15) : see declaration of 'GraphType'
+     1>c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\main.cpp(50): error C2039: 'printPredecessors' : is not a member of 'GraphType'
+                 c:\users\gabriella\desktop\occ\a200\__cs_a200_today\__day_1\lab_10_graphs\lab_10_graphs_adjacency_list\lab_10_graphs\project1\graphtype.h(15) : see declaration of 'GraphType'
+         LinkedListType.cpp
+         LinkedListGraph.cpp
+         GraphType.cpp
+         Functions.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Gabriella\Desktop\OCC\A200\__CS_A200_TODAY\__Day_1\Lab_10_Graphs\Lab_10_Graphs_Adjacency_List\lab_10_graphs\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.39
